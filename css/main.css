@@ -1,0 +1,20 @@
+/*  Put your CSS Here */
+:root {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  background-color: gray;
+}
+
+.number {
+  text-align: right;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/*.box1 {
+  display: flex;
+  flex-direction: column;
+}*/
